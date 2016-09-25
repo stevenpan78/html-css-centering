@@ -1,0 +1,43 @@
+#firstdiv{
+	height: 450px;
+	width: 400px;
+	border: 1px solid black;
+	background-color: gray;
+}
+#secdiv{
+	height: 320px;
+	width: 300px;
+	border: 10px solid red;
+	background-color: orange;
+	margin:auto;
+	margin-top: 50px;
+}
+#thirddiv{
+	height: 250px;
+	width:250px;
+	border: 1px solid blue;
+	background-color: yellow;
+	margin: 0 auto;
+	margin-top: 1px;
+	
+}
+#paragraph{
+	background-color: white;
+}
+#fourthdiv{
+	height: 80px;
+	border: 1px solid purple;
+	width: 140px;
+	margin:auto;
+	margin-top: 50px;
+
+}
+#smallestdiv{
+	height: 30px;
+	width: 70px;
+	/*border: 1px solid black;*/
+	padding-bottom: 15px;
+}
+#para{
+	margin-top: 0px;
+}
